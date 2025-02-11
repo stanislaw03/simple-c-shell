@@ -1,0 +1,3 @@
+C:/Users/stast/Desktop/CS Course/Year 2/OS architectures/OSDemo1/cmake-build-debug/CMakeFiles/OSDemo1.dir
+C:/Users/stast/Desktop/CS Course/Year 2/OS architectures/OSDemo1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/stast/Desktop/CS Course/Year 2/OS architectures/OSDemo1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
